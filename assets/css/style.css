@@ -108,6 +108,9 @@ header ul {
     font-family: merri;
     color: #FFF;
 }
+.buttonstop li:hover{
+    box-shadow: 0px 0px 10px 5px #7e7e7e6a;
+}
 /*zweiterbutton*/
 .buttonstop li:nth-of-type(2){
     background-color: #FFF;
@@ -175,6 +178,9 @@ header ul {
     width: 360px;
     height: 305px;
 }
+.illus_f_app_img img:hover {
+    box-shadow: 0px 0px 8px #00000051;
+}
 /*=============================================
 5.section
 =============================================*/
@@ -194,6 +200,9 @@ header ul {
     gap: 61px;
     justify-content: center;
 }
+.examples_gally img:hover{
+    box-shadow: 0px 0px 8px #00000051;
+}
 /*=============================================
 6.section
 =============================================*/
@@ -207,7 +216,7 @@ header ul {
     margin-right: auto;
 }
 .membership_bg {
-    background-color: #55ACEE1A;
+    background-color: #55acee09;
     width: 360px;
     text-align: center;
     padding-top: 62px;
@@ -240,6 +249,9 @@ header ul {
     padding-left: 48px;
     padding-right: 48px;
     border-radius: 10px;
+}
+.membership_bg a:hover {
+    box-shadow: 0px 0px 8px 5px #55acee64;
 }
 /*=============================================
 6.section
